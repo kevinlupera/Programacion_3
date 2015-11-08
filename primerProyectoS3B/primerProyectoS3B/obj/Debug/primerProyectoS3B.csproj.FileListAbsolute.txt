@@ -1,0 +1,6 @@
+c:\users\pc-21\documents\visual studio 2015\Projects\primerProyectoS3B\primerProyectoS3B\bin\Debug\primerProyectoS3B.exe.config
+c:\users\pc-21\documents\visual studio 2015\Projects\primerProyectoS3B\primerProyectoS3B\bin\Debug\primerProyectoS3B.exe
+c:\users\pc-21\documents\visual studio 2015\Projects\primerProyectoS3B\primerProyectoS3B\bin\Debug\primerProyectoS3B.pdb
+c:\users\pc-21\documents\visual studio 2015\Projects\primerProyectoS3B\primerProyectoS3B\obj\Debug\primerProyectoS3B.csprojResolveAssemblyReference.cache
+c:\users\pc-21\documents\visual studio 2015\Projects\primerProyectoS3B\primerProyectoS3B\obj\Debug\primerProyectoS3B.exe
+c:\users\pc-21\documents\visual studio 2015\Projects\primerProyectoS3B\primerProyectoS3B\obj\Debug\primerProyectoS3B.pdb
